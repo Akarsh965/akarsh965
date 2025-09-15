@@ -25,7 +25,7 @@ Leadership & helping mindset – always ready to collaborate on projects and res
 
 ## 🏆 Achievements & Activities
 ### 🎮 Hackathons & CTFs
-- 🥇 HackAway 2024 – 12th Position  
+- 🥇 HackAway 2025 – 12th Position  (CyberCUJ , CUJAMMU)
 - 🧠 National Science Day 2024 Hackathon  
 - ⚡ AggriSense IoT Project – **patent filed through university**  
 - 🏫 Smart Campus Navigator Project  
