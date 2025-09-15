@@ -1,15 +1,15 @@
-<!-- Cyberpunk Hacker Banner -->
+<!-- Glitchy Cyberpunk Hacker Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+Welcome+to+Akarsh's+Hacker+Space;Cybersecurity+%26+WebDev+Enthusiast;CTF+%7C+Hackathon+Learner;Glitch+in+the+Matrix+Detected..." alt="Glitch Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Welcome+to+Akarsh's+Hacker+Space;Cybersecurity+%26+WebDev+Enthusiast;CTF+%7C+Hackathons+%7C+IoT+Projects;Glitch+Detected..." alt="Glitch Banner" />
 </p>
 
 <p align="center">
-  <h1>I AM AKARSH CHIB ⚡🔥</h1>
-  <h5>(scroll down 👇)</h5>
+  <h1 style="color:#39FF14; text-shadow:0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 20px #FF00FF, 0 0 30px #FF00FF;">I AM AKARSH CHIB ⚡🔥</h1>
+  <h5 style="color:#FF00FF; text-shadow:0 0 5px #FF00FF, 0 0 10px #FF00FF;">(scroll down 👇)</h5>
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/LU1cyLealXkAAAAC/hacker-hack.gif" width="35%">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35%" alt="Hacker GIF"/>
 </p>
 
 ---
@@ -17,10 +17,10 @@
 # 👨‍💻 About Me  
 
 I’m **Akarsh Chib**, a **Cybersecurity & Web Development Enthusiast**.  
-Currently pursuing **B.Tech in Cyber Security at Central University of Jammu (2023–2027)**.  
+Currently pursuing **B.Tech in Cyber Security at CU Jammu (2023–2027)**.  
 
-⚡ I enjoy **ethical hacking, penetration testing, IoT projects, and web development**.  
-⚡ Passionate about **hackathons, competitive coding, and creating innovative solutions**.  
+⚡ Passionate about **ethical hacking, penetration testing, IoT projects, and web dev**.  
+⚡ Love competing in **CTFs, hackathons, and coding challenges**.  
 
 ---
 
@@ -34,32 +34,43 @@ Currently pursuing **B.Tech in Cyber Security at Central University of Jammu (20
 - 🏦 **Bandhan Bank Internship Certificate**  
 
 ### 🚀 Projects
-- 🌱 **Aggrisense (IoT-based Agriculture Project)**  
-- 🏫 **Smart Campus Navigator**  
+- 🌱 **Aggrisense – IoT Agriculture Project**  
+- 🏫 **Smart Campus Navigator – Web & IoT Project**  
 
 ---
 
 ## 🔐 Tech Stack & Skills  
 
-### 🛡️ Security & Hacking  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;&nbsp;&nbsp;  
-![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=socketdotio&logoColor=white)&nbsp;&nbsp;&nbsp;  
+### 🛡️ Security & Hacking
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=socketdotio&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
 
-### 💻 Programming & Scripting  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;&nbsp;  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;  
+### 💻 Programming & Scripting
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
-### 🌐 Languages  
+### 🌐 Languages
 ![English](https://img.shields.io/badge/English-%23000000?style=for-the-badge)  
 ![Hindi](https://img.shields.io/badge/Hindi-%23FF9933?style=for-the-badge)  
 
-### 💡 Soft Skills  
+### 💡 Soft Skills
 - Leadership  
-- Teamwork  
 - Helping Nature  
+- Teamwork & Collaboration  
+
+---
+
+## ⚡ Neon Glitch Effects Sample
+<p align="center">
+  <span style="font-size:2rem; color:#39FF14; text-shadow: 0 0 5px #39FF14, 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #39FF14;">HACKER MODE ACTIVE</span>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%" alt="Neon Glitch"/>
+</p>
 
 ---
 
@@ -70,17 +81,9 @@ Currently pursuing **B.Tech in Cyber Security at Central University of Jammu (20
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsh965&theme=radical" height="180em" />
 </p>
 
----
-
-### ⚡ Recent GitHub Activity  
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsh965&bg_color=0d1117&color=ff0080&line=ff0080&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
 </p>
-
----
-
-### 🏆 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akarsh965&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
@@ -96,10 +99,8 @@ Currently pursuing **B.Tech in Cyber Security at Central University of Jammu (20
 
 ---
 
-### 🎬 Fun Corner  
-
-> 🤖 "Always curious to learn, hack, and build.  
-> Every bug is just an opportunity waiting to be discovered."  
+### 🎬 Fun Corner
+> 🤖 "Always curious to hack ethically, explore vulnerabilities, and build smart solutions. Every bug is an opportunity."  
 
 <p align="center">
   <img src="https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif" width="35%">
