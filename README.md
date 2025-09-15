@@ -1,11 +1,11 @@
-<!-- Glitchy Cyberpunk Hacker Banner -->
+<!-- Cyberpunk Hacker Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Welcome+to+Akarsh's+Hacker+Space;Cybersecurity+%26+WebDev+Enthusiast;CTF+%7C+Hackathons+%7C+IoT+Projects;Glitch+Detected..." alt="Glitch Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Welcome+to+Akarsh's+Hacker+Space;Cybersecurity+%26+WebDev+Enthusiast;CTF+%7C+IoT+%7C+Hackathons;Glitch+in+the+Matrix..." alt="Glitch Banner" />
 </p>
 
 <p align="center">
-  <h1 style="color:#39FF14; text-shadow:0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 20px #FF00FF, 0 0 30px #FF00FF;">I AM AKARSH CHIB ⚡🔥</h1>
-  <h5 style="color:#FF00FF; text-shadow:0 0 5px #FF00FF, 0 0 10px #FF00FF;">(scroll down 👇)</h5>
+  <h1 style="color:#39FF14; text-shadow:0 0 5px #39FF14,0 0 10px #FF00FF,0 0 20px #FF00FF,0 0 30px #39FF14;">I AM AKARSH CHIB ⚡🔥</h1>
+  <h5 style="color:#FF00FF; text-shadow:0 0 5px #FF00FF,0 0 10px #FF00FF;">(scroll down 👇)</h5>
 </p>
 
 <p align="center">
@@ -16,26 +16,36 @@
 
 # 👨‍💻 About Me  
 
-I’m **Akarsh Chib**, a **Cybersecurity & Web Development Enthusiast**.  
-Currently pursuing **B.Tech in Cyber Security at CU Jammu (2023–2027)**.  
+I’m **Akarsh Chib**, a **Cybersecurity & Web Development Enthusiast**, **athlete**, and **innovator**.  
+Currently pursuing **B.Tech in Cyber Security & Web Dev at CU Jammu (2023–2027)** with **8+ CGPA**.  
 
-⚡ Passionate about **ethical hacking, penetration testing, IoT projects, and web dev**.  
-⚡ Love competing in **CTFs, hackathons, and coding challenges**.  
+⚡ Passionate about **ethical hacking, penetration testing, IoT, web dev, and generative AI**.  
+⚡ Love competing in **CTFs, hackathons, football & cricket tournaments**.  
+⚡ **Leadership & helping mindset** – always ready to collaborate on projects and research.  
 
 ---
 
 ## 🏆 Achievements & Activities  
 
-- ⚽🏏 **Combatica Inter-University Football & Cricket Competitions**  
+### 🎮 Hackathons & CTFs
 - 🥇 **HackAway 2024 – 12th Position**  
-- 🧠 **National Science Day 2024 Hackathon**  
-- 🏅 **E-Yantra MOOC – Certificate of Merit**  
-- 🏅 **Generative AI for Educators – Certificate**  
-- 🏦 **Bandhan Bank Internship Certificate**  
+- 🧠 **National Science Day 2024 Hackathon Participant**  
+- ⚡ AggriSense IoT Project – **patent submitted through university**  
 
-### 🚀 Projects
-- 🌱 **Aggrisense – IoT Agriculture Project**  
-- 🏫 **Smart Campus Navigator – Web & IoT Project**  
+### ⚽🏏 Sports
+- 🏅 Combatica Inter-University **Football & Cricket Competitions**  
+- 🥊 Boxer Haub – actively involved in sports  
+
+### 🎓 Academics & Certifications
+- 🏅 E-Yantra MOOC – Certificate of Merit  
+- 🏦 Bandhan Bank Internship Certificate  
+- 🧠 Generative AI for Educators Certificate  
+
+---
+
+## 🚀 Projects & Innovations
+- 🌱 **Aggrisense – IoT Agriculture Project (Patent filed)**  
+- 🏫 **Smart Campus Navigator – Web & IoT Solution**  
 
 ---
 
@@ -65,7 +75,7 @@ Currently pursuing **B.Tech in Cyber Security at CU Jammu (2023–2027)**.
 
 ## ⚡ Neon Glitch Effects Sample
 <p align="center">
-  <span style="font-size:2rem; color:#39FF14; text-shadow: 0 0 5px #39FF14, 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #39FF14;">HACKER MODE ACTIVE</span>
+  <span style="font-size:2rem; color:#39FF14; text-shadow: 0 0 5px #39FF14,0 0 10px #FF00FF,0 0 20px #FF00FF,0 0 30px #39FF14;">HACKER MODE ACTIVE</span>
 </p>
 
 <p align="center">
@@ -82,26 +92,4 @@ Currently pursuing **B.Tech in Cyber Security at CU Jammu (2023–2027)**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsh965&bg_color=0d1117&color=ff0080&line=ff0080&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akarsh965&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🌍 Connect with Me  
-
-- 🐙 [GitHub](https://github.com/Akarsh965)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/akarsh-chib-5a0ba1328/)  
-- 📧 [Email](mailto:akarshchib942@gmail.com)  
-
----
-
-### 🎬 Fun Corner
-> 🤖 "Always curious to hack ethically, explore vulnerabilities, and build smart solutions. Every bug is an opportunity."  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif" width="35%">
-</p>
+  <img src="https://github-readme-activity-graph.
